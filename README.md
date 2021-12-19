@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @devnicg
 - 👀 I’m interested in Python
-- 🌱 I’m currently learning Flask
+- 🌱 I’m currently learning Django
 - 💞️ I’m looking to collaborate on nothing yet.
 - 📫 Reach me on twitter @devnicg
 
