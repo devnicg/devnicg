@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @devnicg
-- 👀 I’m interested in Python
-- 🌱 I’m currently learning Django
-- 💞️ I’m looking to collaborate on nothing yet.
-- 📫 Reach me on twitter @devnicg
+- 👀 I’m interested in .NET / C#
+- 🌱 I’m currently learning Blazor
 
 <!---
 devnicg/devnicg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
