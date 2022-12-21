@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @devnicg
-- 👀 I’m interested in .NET / C#
-- 🌱 I’m currently learning Blazor
+- 👀 I’m interested in Javascript
+- 🌱 I’m currently learning Vue / Nuxtjs
 
 <!---
 devnicg/devnicg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
