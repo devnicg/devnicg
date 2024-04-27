@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @devnicg
-- 👀 I’m interested in Javascript
-- 🌱 I’m currently learning Vue / Nuxtjs
+- 🌱 I’m currently learning Golang
 
 <!---
 devnicg/devnicg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
