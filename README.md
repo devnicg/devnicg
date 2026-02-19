@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @devnicg
-- 🌱 I’m currently learning Golang
+
 
 <!---
 devnicg/devnicg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
